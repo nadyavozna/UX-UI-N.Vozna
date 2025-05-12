@@ -14,11 +14,4 @@
 ![2](https://github.com/nadyavozna/UX-UI-N.Vozna/blob/main/workshop_7/Frame%202.svg)
 
 
-Посилання на проєкт у [Figma](https://www.figma.com/design/Lp4cGqJwO2TNXvmac8BoaW/Medium-Advanced?node-id=0-1&t=HsbCR68XVjjGxJCB-1)
-
-
-
-
-
-
-https://www.figma.com/design/FTp5IFVJYsO8dlJiddwAkr/7?node-id=0-1&t=rrgvoTJzPeIdB5dp-1
+Посилання на проєкт у [Figma](https://www.figma.com/design/FTp5IFVJYsO8dlJiddwAkr/7?node-id=0-1&t=rrgvoTJzPeIdB5dp-1)
