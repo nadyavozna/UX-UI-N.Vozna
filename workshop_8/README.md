@@ -15,4 +15,3 @@
 
 
 Посилання на проєкт у [Figma](https://www.figma.com/design/LhQ220mYKSXqRmybK2Pl16/8?node-id=0-1&t=lbP9ukbfa62zLghe-1)
-
